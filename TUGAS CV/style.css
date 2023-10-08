@@ -1,0 +1,14 @@
+body{
+    max-width: 60%;
+    margin: auto;
+    font-family:sans-serif;
+}
+#avatar img{
+    height: 150px;
+    width: 100px;
+    border-radius: 10px;
+}
+#avatar p{
+    font-size: 16px;
+    font-weight: bold;
+}
